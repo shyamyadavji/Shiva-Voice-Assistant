@@ -1,0 +1,25 @@
+# Ignore the file with our secret API key
+.env
+
+# Ignore Python's temporary cache folders and files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders (a good practice)
+venv/
+env/
+ENV/
+VENV/
+*/.venv
+
+# Ignore IDE/Editor specific settings folders
+.vscode/
+.idea/
+
+# Ignore common OS generated files
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
