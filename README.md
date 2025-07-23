@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- You can create a simple banner image/logo and upload it to your repo -->
@@ -97,3 +98,6 @@
 To start Shiva, run the main script from your terminal:
 ```bash
 python shiv.py
+=======
+# Shiva-Voice-Assistant
+>>>>>>> 38275ce5ba83702f0af48bc8ea73e341e4b8c5b5
