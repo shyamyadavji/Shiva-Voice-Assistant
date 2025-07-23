@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <!-- You can create a simple banner image/logo and upload it to your repo -->
 <!-- For now, it's a placeholder. Replace 'path/to/your/banner.png' -->
 <!-- Or delete this line if you don't have a banner -->
-<img src="path/to/your/banner.png" alt="Shiva Voice Assistant Banner" width="700"/>
+<img src="shiva-banner.png" alt="Shiva Voice Assistant Banner" width="700"/>
 
 # Shiva Voice Assistant (Advanced)
 
