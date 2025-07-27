@@ -61,7 +61,7 @@ DEFAULT_MUSIC_FOLDER = r"C:\Users\SHYAM YADAV\Music"
 DEFAULT_PDF_PATH = r"C:\Users\SHYAM YADAV\Downloads\Shivavoice\SHIVA_PDF.3[1].pdf"
 DEFAULT_WORD_PATH = r"C:\Users\SHYAM YADAV\Downloads\Shivavoice\project_report_shyam[1].docx"
 DEFAULT_VIDEO_PATH = r"C:\Users\SHYAM YADAV\OneDrive\Desktop\Shivavoice\videoplayback.mp4"
-DEFAULT_GIF_PATH = r"C:\Users\SHYAM YADAV\OneDrive\Desktop\Shivavoice\ScreenRecording2025-03-28210529-ezgif.com-crop.gif"
+DEFAULT_GIF_PATH = r"C:\Users\SHYAM YADAV\OneDrive\Desktop\Shivavoice\Generated shiva.gif"
 
 print("--- End Configuration Phase ---")
 
